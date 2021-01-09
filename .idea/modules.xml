@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firebaseproject.iml" filepath="$PROJECT_DIR$/.idea/modules/firebaseproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/firebaseproject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/firebaseproject.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1276661325/firebaseproject.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1276661325/firebaseproject.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1534200973/firebaseproject.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/1534200973/firebaseproject.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-431334788/firebaseproject.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-431334788/firebaseproject.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1002486998/firebaseproject.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1002486998/firebaseproject.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1524533426/firebaseproject.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1524533426/firebaseproject.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-665962221/firebaseproject.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-665962221/firebaseproject.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1013496597/firebaseproject.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1013496597/firebaseproject.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-552380403/firebaseproject.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-552380403/firebaseproject.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
